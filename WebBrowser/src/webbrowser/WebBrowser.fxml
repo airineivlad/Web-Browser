@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.web.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="548.0" prefWidth="851.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="webbrowser.WebBrowserController">
+   <children>
+      <Region layoutY="35.0" prefHeight="33.0" prefWidth="851.0" style="-fx-background-color: #4d4d4d;" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+      <TextField fx:id="linkArea" layoutX="82.0" layoutY="4.0" onKeyPressed="#handlerEnterPressed" prefHeight="25.0" prefWidth="383.0" AnchorPane.leftAnchor="82.0" />
+      <Button fx:id="goLink" layoutX="476.0" layoutY="4.0" mnemonicParsing="false" onAction="#handlerGoLinkAction" prefHeight="25.0" prefWidth="42.0" text="Go" />
+      <WebView fx:id="WebView" layoutY="70.0" prefHeight="454.0" prefWidth="851.0" AnchorPane.bottomAnchor="24.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="70.0" />
+      <TextArea fx:id="console" layoutX="4.0" layoutY="522.0" maxHeight="25.0" prefHeight="25.0" prefWidth="667.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+      <Button fx:id="refresh" layoutX="12.0" layoutY="4.0" mnemonicParsing="false" onAction="#handlerRefreshAction" prefHeight="25.0" prefWidth="62.0" AnchorPane.leftAnchor="12.0" />
+      <Button fx:id="home" layoutX="619.0" layoutY="4.0" mnemonicParsing="false" onAction="#handlerHomeAction" prefHeight="25.0" prefWidth="34.0" AnchorPane.rightAnchor="14.0" />
+      <Label fx:id="usernameLabel" layoutX="602.0" layoutY="8.0" text="Username Placeholder" textFill="#45a9fc" AnchorPane.leftAnchor="602.0" />
+      <Label fx:id="usernameLabel1" layoutX="540.0" layoutY="8.0" text="Username:" AnchorPane.leftAnchor="540.0" />
+      <HBox fx:id="hbox" layoutX="12.0" layoutY="38.0" prefHeight="25.0" prefWidth="761.0" AnchorPane.leftAnchor="12.0" AnchorPane.rightAnchor="78.0" />
+      <Label layoutX="778.0" layoutY="42.0" prefHeight="17.0" prefWidth="62.0" text="Bookmarks" textFill="WHITE" AnchorPane.rightAnchor="11.0" />
+   </children>
+</AnchorPane>

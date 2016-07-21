@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="463.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.LogInFXMLController">
+   <children>
+      <TextField fx:id="usernameTxt" layoutX="112.0" layoutY="49.0" prefHeight="25.0" prefWidth="472.0" />
+      <TextField fx:id="passwordTxt" layoutX="112.0" layoutY="93.0" prefHeight="25.0" prefWidth="472.0" />
+      <Label layoutX="25.0" layoutY="53.0" prefHeight="17.0" prefWidth="69.0" text="Username" />
+      <Label layoutX="25.0" layoutY="97.0" prefHeight="17.0" prefWidth="69.0" text="Password" />
+      <Button fx:id="connect" layoutX="25.0" layoutY="14.0" mnemonicParsing="false" onAction="#handlerConnectAction" prefHeight="25.0" prefWidth="558.0" text="Connect To Server" />
+      <Button fx:id="login" layoutX="26.0" layoutY="131.0" mnemonicParsing="false" onAction="#handlerLoginAction" prefHeight="25.0" prefWidth="276.0" text="Login" />
+      <TextArea fx:id="console" layoutX="25.0" layoutY="176.0" prefHeight="200.0" prefWidth="558.0" />
+      <Button fx:id="openBrowser" layoutX="25.0" layoutY="391.0" mnemonicParsing="false" onAction="#handlerOpenBrowser" prefHeight="55.0" prefWidth="558.0" text="Open Browser" />
+      <Button fx:id="createAccout" layoutX="307.0" layoutY="131.0" mnemonicParsing="false" onAction="#handlerCreateAction" prefHeight="25.0" prefWidth="276.0" text="Create Account" />
+   </children>
+</AnchorPane>

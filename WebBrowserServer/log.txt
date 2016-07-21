@@ -1,0 +1,564 @@
+Connected to Database
+ 2016-05-26 22:58:27.239 
+
+Connected to Database
+ 2016-05-26 23:02:17.183 
+
+Server application started...
+ 2016-05-26 23:05:25.513 
+
+Connecting to database...
+ 2016-05-26 23:05:25.541 
+
+Connected to Database
+ 2016-05-26 23:05:26.476 
+
+Server running...
+ 2016-05-26 23:06:04.406 
+
+New request received
+ 2016-05-26 23:06:11.147 
+
+Username recieved is vlad and password 1234.
+ 2016-05-26 23:06:11.174 
+
+Checking password...
+ 2016-05-26 23:06:11.193 
+
+Veryfing matching...
+ 2016-05-26 23:06:11.446 
+
+Username and password match...
+ 2016-05-26 23:06:11.468 
+
+Server application started...
+ 2016-05-26 23:06:52.868 
+
+Connecting to database...
+ 2016-05-26 23:06:52.872 
+
+Connected to Database
+ 2016-05-26 23:06:53.541 
+
+Server running...
+ 2016-05-26 23:07:09.789 
+
+New request received
+ 2016-05-26 23:07:14.686 
+
+Username recieved is admin and password admin.
+ 2016-05-26 23:07:14.702 
+
+Checking password...
+ 2016-05-26 23:07:14.749 
+
+Veryfing matching...
+ 2016-05-26 23:07:14.939 
+
+Username and password match...
+ 2016-05-26 23:07:14.959 
+
+Server application started...
+ 2016-05-26 23:08:20.554 
+
+Connecting to database...
+ 2016-05-26 23:08:20.567 
+
+Connected to Database
+ 2016-05-26 23:08:21.502 
+
+Server running...
+ 2016-05-26 23:08:36.609 
+
+New request received
+ 2016-05-26 23:08:52.611 
+
+Username recieved is root and password root.
+ 2016-05-26 23:08:52.736 
+
+Checking password...
+ 2016-05-26 23:08:52.77 
+
+Veryfing matching...
+ 2016-05-26 23:08:53.003 
+
+Username and password match...
+ 2016-05-26 23:08:53.094 
+
+Server application started...
+ 2016-05-26 23:33:22.191 
+
+Connecting to database...
+ 2016-05-26 23:33:22.252 
+
+Properties loaded from bdProp.properties
+ 2016-05-26 23:33:22.261 
+
+Connected to Database
+ 2016-05-26 23:33:29.421 
+
+Server application started...
+ 2016-05-26 23:33:37.147 
+
+Connecting to database...
+ 2016-05-26 23:33:37.161 
+
+Properties loaded from bdProp.properties
+ 2016-05-26 23:33:37.17 
+
+Connected to Database
+ 2016-05-26 23:33:42.616 
+
+Server application started...
+ 2016-05-26 23:35:27.622 
+
+Connecting to database...
+ 2016-05-26 23:35:27.635 
+
+Properties loaded from bdProp.properties
+ 2016-05-26 23:35:27.644 
+
+Connected to Database
+ 2016-05-26 23:35:32.632 
+
+Server application started...
+ 2016-05-26 23:36:29.091 
+
+Connecting to database...
+ 2016-05-26 23:36:29.104 
+
+Properties loaded from bdProp.properties
+ 2016-05-26 23:36:29.115 
+
+Connected to Database
+ 2016-05-26 23:36:31.83 
+
+Server running...
+ 2016-05-26 23:37:06.581 
+
+New request received
+ 2016-05-26 23:37:12.615 
+
+Username recieved is vlad and password 1234.
+ 2016-05-26 23:37:12.636 
+
+Checking password...
+ 2016-05-26 23:37:12.655 
+
+Veryfing matching...
+ 2016-05-26 23:37:15.158 
+
+Username and password match...
+ 2016-05-26 23:37:15.17 
+
+Server application started...
+ 2016-05-26 23:53:09.936 
+
+Connecting to database...
+ 2016-05-26 23:53:09.954 
+
+Properties loaded from bdProp.properties
+ 2016-05-26 23:53:09.969 
+
+Connected to Database
+ 2016-05-26 23:53:11.236 
+
+Server running...
+ 2016-05-26 23:53:32.109 
+
+New request received
+ 2016-05-26 23:54:09.231 
+
+
+Creating account... 2016-05-26 23:54:09.247 
+
+Server application started...
+ 2016-05-26 23:55:41.126 
+
+Connecting to database...
+ 2016-05-26 23:55:41.139 
+
+Properties loaded from bdProp.properties
+ 2016-05-26 23:55:41.209 
+
+Connected to Database
+ 2016-05-26 23:55:42.711 
+
+Server running...
+ 2016-05-26 23:55:49.01 
+
+New request received
+ 2016-05-26 23:55:55.849 
+
+
+Creating account... 2016-05-26 23:55:55.864 
+
+
+Account created, press LogIn.. 2016-05-26 23:55:56.185 
+
+New request received
+ 2016-05-26 23:55:56.291 
+
+Username recieved is browser and password browser.
+ 2016-05-26 23:55:56.308 
+
+Checking password...
+ 2016-05-26 23:55:56.322 
+
+Veryfing matching...
+ 2016-05-26 23:55:56.423 
+
+Username and password match...
+ 2016-05-26 23:55:56.433 
+
+Server application started...
+ 2016-05-27 00:01:03.598 
+
+Connecting to database...
+ 2016-05-27 00:01:03.607 
+
+Properties loaded from bdProp.properties
+ 2016-05-27 00:01:03.613 
+
+Connected to Database
+ 2016-05-27 00:01:06.055 
+
+Server running...
+ 2016-05-27 00:01:12.411 
+
+New request received
+ 2016-05-27 00:01:17.668 
+
+Username recieved is vlad and password 1234.
+ 2016-05-27 00:01:17.687 
+
+Checking password...
+ 2016-05-27 00:01:17.705 
+
+Veryfing matching...
+ 2016-05-27 00:01:17.824 
+
+Username and password match...
+ 2016-05-27 00:01:17.845 
+
+Server application started...
+ 2016-05-27 00:03:26.672 
+
+Connecting to database...
+ 2016-05-27 00:03:26.687 
+
+Properties loaded from bdProp.properties
+ 2016-05-27 00:03:26.697 
+
+Connected to Database
+ 2016-05-27 00:03:28.057 
+
+Server running...
+ 2016-05-27 00:03:43.458 
+
+New request received
+ 2016-05-27 00:03:56.771 
+
+
+Creating account... 2016-05-27 00:03:56.789 
+
+
+Account created, press LogIn.. 2016-05-27 00:03:56.932 
+
+New request received
+ 2016-05-27 00:03:56.945 
+
+Username recieved is brw and password brw.
+ 2016-05-27 00:03:56.986 
+
+Checking password...
+ 2016-05-27 00:03:57.064 
+
+Veryfing matching...
+ 2016-05-27 00:03:57.182 
+
+Username and password match...
+ 2016-05-27 00:03:57.218 
+
+Server application started...
+ 2016-05-27 00:28:45.335 
+
+Connecting to database...
+ 2016-05-27 00:28:45.38 
+
+Properties loaded from bdProp.properties
+ 2016-05-27 00:28:45.39 
+
+Connected to Database
+ 2016-05-27 00:28:49.608 
+
+Server running...
+ 2016-05-27 00:29:19.165 
+
+New request received
+ 2016-05-27 00:29:34.208 
+
+Username recieved is vlad and password 1234.
+ 2016-05-27 00:29:34.232 
+
+Checking password...
+ 2016-05-27 00:29:34.259 
+
+Veryfing matching...
+ 2016-05-27 00:29:34.437 
+
+Username and password match...
+ 2016-05-27 00:29:34.466 
+
+Server application started...
+ 2016-05-27 20:30:47.924 
+
+Connecting to database...
+ 2016-05-27 20:30:47.958 
+
+Properties loaded from bdProp.properties
+ 2016-05-27 20:30:47.976 
+
+Connected to Database
+ 2016-05-27 20:30:51.557 
+
+Server running...
+ 2016-05-27 20:31:05.633 
+
+New request received
+ 2016-05-27 20:31:09.089 
+
+Username recieved is vlad and password 1234.
+ 2016-05-27 20:31:09.112 
+
+Checking password...
+ 2016-05-27 20:31:09.125 
+
+Veryfing matching...
+ 2016-05-27 20:31:09.302 
+
+Username and password match...
+ 2016-05-27 20:31:09.366 
+
+Server application started...
+ 2016-05-28 01:12:55.689 
+
+Connecting to database...
+ 2016-05-28 01:12:55.702 
+
+Properties loaded from bdProp.properties
+ 2016-05-28 01:12:55.714 
+
+Connected to Database
+ 2016-05-28 01:12:58.269 
+
+Server application started...
+ 2016-05-28 01:16:38.997 
+
+Connecting to database...
+ 2016-05-28 01:16:39.013 
+
+Properties loaded from bdProp.properties
+ 2016-05-28 01:16:39.013 
+
+Connected to Database
+ 2016-05-28 01:16:40.295 
+
+Server application started...
+ 2016-05-28 01:18:59.418 
+
+Connecting to database...
+ 2016-05-28 01:18:59.433 
+
+Properties loaded from bdProp.properties
+ 2016-05-28 01:18:59.447 
+
+Connected to Database
+ 2016-05-28 01:19:00.873 
+
+Server running...
+ 2016-05-28 01:19:06.647 
+
+New request received
+ 2016-05-28 01:19:11.933 
+
+Username recieved is vlad and password 1234.
+ 2016-05-28 01:19:11.963 
+
+Checking password...
+ 2016-05-28 01:19:11.984 
+
+Veryfing matching...
+ 2016-05-28 01:19:12.147 
+
+Username and password match...
+ 2016-05-28 01:19:12.163 
+
+Server application started...
+ 2016-05-28 01:23:10.882 
+
+Connecting to database...
+ 2016-05-28 01:23:10.893 
+
+Properties loaded from bdProp.properties
+ 2016-05-28 01:23:10.901 
+
+Connected to Database
+ 2016-05-28 01:23:12.299 
+
+Server application started...
+ 2016-05-28 01:23:50.771 
+
+Connecting to database...
+ 2016-05-28 01:23:50.788 
+
+Properties loaded from bdProp.properties
+ 2016-05-28 01:23:50.802 
+
+Connected to Database
+ 2016-05-28 01:23:52.221 
+
+Server application started...
+ 2016-05-28 01:24:19.647 
+
+Connecting to database...
+ 2016-05-28 01:24:19.661 
+
+Properties loaded from bdProp.properties
+ 2016-05-28 01:24:19.674 
+
+Connected to Database
+ 2016-05-28 01:24:20.852 
+
+Server application started...
+ 2016-05-28 01:31:39.101 
+
+Connecting to database...
+ 2016-05-28 01:31:39.119 
+
+Server application started...
+ 2016-05-28 01:32:31.425 
+
+Connecting to database...
+ 2016-05-28 01:32:31.431 
+
+Server application started...
+ 2016-05-28 01:34:10.265 
+
+Connecting to database...
+ 2016-05-28 01:34:10.272 
+
+Server application started...
+ 2016-05-28 01:36:47.171 
+
+Connecting to database...
+ 2016-05-28 01:36:47.187 
+
+Server application started...
+ 2016-05-28 01:42:44.775 
+
+Connecting to database...
+ 2016-05-28 01:42:44.804 
+
+Properties loaded from bdProp.properties
+ 2016-05-28 01:42:44.819 
+
+Connected to Database
+ 2016-05-28 01:42:46.181 
+
+Server running...
+ 2016-05-28 01:42:59.23 
+
+New request received
+ 2016-05-28 01:43:04.515 
+
+Username recieved is vlad and password 1234.
+ 2016-05-28 01:43:04.534 
+
+Checking password...
+ 2016-05-28 01:43:04.55 
+
+Veryfing matching...
+ 2016-05-28 01:43:05.248 
+
+Username and password match...
+ 2016-05-28 01:43:05.261 
+
+Server application started...
+ 2016-05-28 01:53:12.74 
+
+Connecting to database...
+ 2016-05-28 01:53:12.804 
+
+Properties loaded from /resources/bdProp.properties
+ 2016-05-28 01:53:12.815 
+
+Connected to Database
+ 2016-05-28 01:53:13.717 
+
+Server application started...
+ 2016-05-28 01:55:44.275 
+
+Connecting to database...
+ 2016-05-28 01:55:44.292 
+
+Properties loaded from /resources/bdProp.properties
+ 2016-05-28 01:55:44.307 
+
+Connected to Database
+ 2016-05-28 01:55:46.117 
+
+Server application started...
+ 2016-05-28 01:56:27.431 
+
+Connecting to database...
+ 2016-05-28 01:56:27.444 
+
+Properties loaded from /resources/bdProp.properties
+ 2016-05-28 01:56:27.459 
+
+Connected to Database
+ 2016-05-28 01:56:28.712 
+
+Server application started...
+ 2016-05-28 01:57:07.106 
+
+Connecting to database...
+ 2016-05-28 01:57:07.123 
+
+Properties loaded from /resources/bdProp.properties
+ 2016-05-28 01:57:07.14 
+
+Connected to Database
+ 2016-05-28 01:57:08.444 
+
+Server application started...
+ 2016-06-29 21:27:21.567 
+
+Connecting to database...
+ 2016-06-29 21:27:21.617 
+
+Properties loaded from /resources/bdProp.properties
+ 2016-06-29 21:27:21.631 
+
+Connected to Database
+ 2016-06-29 21:27:28.867 
+
+Server running...
+ 2016-06-29 21:27:34.901 
+
+New request received
+ 2016-06-29 21:27:40.793 
+
+Username recieved is vlad and password 1234.
+ 2016-06-29 21:27:40.809 
+
+Checking password...
+ 2016-06-29 21:27:40.824 
+
+Veryfing matching...
+ 2016-06-29 21:27:40.962 
+
+Username and password match...
+ 2016-06-29 21:27:40.975 
+
