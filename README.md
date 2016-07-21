@@ -1,6 +1,7 @@
 # Web-Browser
 Used technologies:
   - Java 1.7
+  - JavaFX
   - Sockets
   - MySQL
   - Threads
